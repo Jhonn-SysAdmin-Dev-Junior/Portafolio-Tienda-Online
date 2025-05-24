@@ -3,7 +3,7 @@
 Este proyecto fue desarrollado como parte del módulo final del Ciclo Superior de ASIR. Su objetivo es implementar una plataforma de comercio electrónico escalable y automatizada, utilizando tecnologías modernas como Docker, PrestaShop y Bash scripting.
 
 ---
-<img src="" width="600">
+
 ## 🚀 Tecnologías utilizadas
 
 - 🐳 Docker & Docker Compose
@@ -23,7 +23,7 @@ Este proyecto fue desarrollado como parte del módulo final del Ciclo Superior d
 <img src="img/landing.png" width="600">
 
 ### 🛒 Interfaz de la tienda en PrestaShop
-<img src="img/prestashop-home.png" width="600">
+<img src="shop.png" width="600">
 
 ### 💾 Automatización de backups
 <img src="img/backup-script.png" width="600">
