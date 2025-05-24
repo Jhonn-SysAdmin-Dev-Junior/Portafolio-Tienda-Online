@@ -17,16 +17,16 @@ Este proyecto fue desarrollado como parte del módulo final del Ciclo Superior d
 ## 📸 Capturas destacadas
 
 ### 🔧 Infraestructura Docker
-<img src="img/docker-compose.png" width="600">
+<img src="Img/docker_compose.png" width="600">
 
 ### 🌐 Landing page desarrollada con Bootstrap
-<img src="img/landing.png" width="600">
+<img src="Img/Landing_page.png" width="600">
 
 ### 🛒 Interfaz de la tienda en PrestaShop
 <img src="Img/shop.png" width="600">
 
 ### 💾 Automatización de backups
-<img src="img/backup-script.png" width="600">
+<img src="Img/script.png" width="600">
 
 ---
 
@@ -44,7 +44,7 @@ Automathkey es una empresa ficticia de domótica que requería una tienda online
 ## 📄 Documentación completa
 
 Puedes ver la memoria técnica completa del proyecto aquí:  
-➡️ [Ver documento (PDF en Google Drive)](https://drive.google.com/...)
+➡️ [Ver documento (PDF en Google Drive)](https://docs.google.com/document/d/1E7pOCnYzE9r1HPJGu_PJbKoeVVQ9rlQfb5D_WxGU61s/edit?usp=sharing)
 
 ---
 
@@ -52,4 +52,4 @@ Puedes ver la memoria técnica completa del proyecto aquí:
 
 **Jhon Edinson Bermudez Blandon**  
 Técnico en Administración de Sistemas Informáticos en Red  
-[LinkedIn](https://linkedin.com/in/...) | [GitHub](https://github.com/itsthejhonnyjhon)
+[LinkedIn](https://www.linkedin.com/in/jhon-edinson-bermudez-blandon-980622349/) | [GitHub](https://github.com/Jhonn-SysAdmin-Dev-Junior)
