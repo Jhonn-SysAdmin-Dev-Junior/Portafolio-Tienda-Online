@@ -20,7 +20,7 @@ Este proyecto fue desarrollado como parte del módulo final del Ciclo Superior d
 <img src="Img/docker_compose.png" width="400" height="400">
 
 ### 🌐 Landing page desarrollada con Bootstrap
-<img src="Img/Landing_page.png" width="600">
+<img src="Img/Landing_page.png" width="450" height="450" >
 
 ### 🛒 Interfaz de la tienda en PrestaShop
 <img src="Img/shop.png" width="600">
