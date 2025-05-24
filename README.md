@@ -23,7 +23,7 @@ Este proyecto fue desarrollado como parte del módulo final del Ciclo Superior d
 <img src="img/landing.png" width="600">
 
 ### 🛒 Interfaz de la tienda en PrestaShop
-<img src="tienda.png" width="600">
+<img src="img/shop.png" width="600">
 
 ### 💾 Automatización de backups
 <img src="img/backup-script.png" width="600">
