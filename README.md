@@ -17,7 +17,7 @@ Este proyecto fue desarrollado como parte del módulo final del Ciclo Superior d
 ## 📸 Capturas destacadas
 
 ### 🔧 Infraestructura Docker
-<img src="Img/docker_compose.png" width="600 height=300">
+<img src="Img/docker_compose.png" width="600" height="300">
 
 ### 🌐 Landing page desarrollada con Bootstrap
 <img src="Img/Landing_page.png" width="600">
