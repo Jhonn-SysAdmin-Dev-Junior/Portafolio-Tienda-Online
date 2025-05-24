@@ -3,7 +3,7 @@
 Este proyecto fue desarrollado como parte del módulo final del Ciclo Superior de ASIR. Su objetivo es implementar una plataforma de comercio electrónico escalable y automatizada, utilizando tecnologías modernas como Docker, PrestaShop y Bash scripting.
 
 ---
-<img src="img/crontab.png" width="600">
+<img src="" width="600">
 ## 🚀 Tecnologías utilizadas
 
 - 🐳 Docker & Docker Compose
